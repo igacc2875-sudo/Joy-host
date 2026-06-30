@@ -1,0 +1,5 @@
+telethon
+requests
+qrcode
+gTTS
+yt-dlp
