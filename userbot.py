@@ -348,7 +348,7 @@ reply_list = ["𝐊ʏᴀ 𝐑ᴇ 𝐑ᴀɴᴅɪᴋᴇ 𝐂ᴏᴏʟ 𝐁ᴀɴᴇ�
     "𝐊ɪ 𝐌ᴀᴀ 𝐌ᴀʀʀ 𝐆ᴀʏɪ 𝐘ᴀᴀʀ - 𝐉ᴀɪ LOLLAGANG ! 🌙",
     "acha beta 😂🔥👊🏻 ? coi na me toh HATER codunga 😹💔🔥😆👊🏻💥",
     "chudke bhaga kaise 😂💥🤣🤘🏻",
-    "ne toh LOLLAGANG ka lun muh me lelia 😂🙏🏻😂🙏🏻",
+    "Teri maa ne toh LOLLAGANG ka lun muh me lelia 😂🙏🏻😂🙏🏻",
     "try maa सूर्य☀ nikalte hi pel du 😹🔥💔",
     "mkl lun te vaj 😂✊🏻💦",
     "𝗧ᴍᴋ𝗕 pe LOLLAGANG ka hamla 😂⚔🔥💥",
@@ -636,8 +636,8 @@ async def cmd_menu(event, _):
 ➤ .𝐒ʜʀʀ <reply / @id> → sᴛᴏᴘ ʜᴇᴀʀᴛ  
 ➤ .𝐑ᴇᴘʟʏɢᴏᴅ <reply / @id> → ɢᴏᴅ ʀᴀɪᴅ  
 ➤ .𝐒ɢᴏᴅ <reply / @id> → sᴛᴏᴘ ɢᴏᴅ  
-➤ .𝐑ᴇᴘʟʏʏᴏʀɪᴄʜɪ <text> <count> → ʟɪᴍɪᴛ ʀᴀɪᴅ  
-➤ .𝐒ʏᴏʀɪᴄʜɪ <reply / @id> → sᴛᴏᴘ ʟɪᴍɪᴛ  
+➤ .𝐑ᴇᴘʟʏlolla <text> <count> → ʟɪᴍɪᴛ ʀᴀɪᴅ  
+➤ .𝐒lolla <reply / @id> → sᴛᴏᴘ ʟɪᴍɪᴛ  
 ╰────────────────────╯
 
 ╭─〔 💣 𝐒ᴘᴀᴍ & ⚡ 𝐅ᴀsᴛ 〕─╮
